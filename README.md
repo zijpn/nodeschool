@@ -1,3 +1,3 @@
 # nodeschool
 
-my nodeschool.io answers
+my http://nodeschool.io/ answers
