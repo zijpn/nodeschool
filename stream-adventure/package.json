@@ -1,0 +1,15 @@
+{
+  "name": "stream-adventure",
+  "private": true,
+  "dependencies": {
+    "duplexer2": "^0.0.2",
+    "split": "^0.3.3",
+    "concat-stream": "^1.4.8",
+    "request": "^2.55.0",
+    "tar": "^2.1.0",
+    "trumpet": "^1.7.1",
+    "through2": "^0.6.5",
+    "websocket-stream": "^1.5.0",
+    "stream-combiner": "^0.2.1"
+  }
+}
