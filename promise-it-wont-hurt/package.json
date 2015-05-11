@@ -1,0 +1,7 @@
+{
+  "name": "promise-it-wont-hurt",
+  "private": true,
+  "dependencies": {
+    "q": "^1.4.0"
+  }
+}
