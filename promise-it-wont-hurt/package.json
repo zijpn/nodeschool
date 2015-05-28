@@ -2,6 +2,8 @@
   "name": "promise-it-wont-hurt",
   "private": true,
   "dependencies": {
-    "q": "^1.4.0"
+    "lodash": "^3.9.3",
+    "q": "^1.4.0",
+    "q-io": "^1.13.0"
   }
 }
